@@ -67,9 +67,9 @@ E-commerce desenvolvido do zero com loja virtual, painel administrativo, autenti
 **Tecnologias:**  
 Node.js • Express • MySQL • JavaScript • JWT • Cloudinary • Railway • Netlify
 
-🔗 [Ver projeto no GitHub](COLE_AQUI_O_LINK_DO_REPOSITORIO_HAZE_DRIP)
+🔗 [Ver projeto no GitHub](https://github.com/bonfimgit/HAZE-DRIP)
 
-🌐 [Ver aplicação online](COLE_AQUI_O_LINK_DA_LOJA)
+🌐 [Ver aplicação online](https://6a9ed0deee28f68217553dad--ubiquitous-squirrel-39e709.netlify.app/hazedrip/frontend/)
 
 📝 Atualmente estudando
 
