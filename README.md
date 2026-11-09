@@ -69,7 +69,7 @@ Node.js • Express • MySQL • JavaScript • JWT • Cloudinary • Railway 
 
 🔗 [Ver projeto no GitHub](https://github.com/bonfimgit/HAZE-DRIP)
 
-🌐 [Ver aplicação online](https://ubiquitous-squirrel-39e709.netlify.app/frontend/)
+🌐 [Ver aplicação online](https://ubiquitous-squirrel-39e709.netlify.app/)
 
 📝 Atualmente estudando
 
